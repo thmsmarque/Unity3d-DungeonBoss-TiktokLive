@@ -1,0 +1,42 @@
+newmtl Pottery_clay
+Ka 0 0 0
+Ns 2.31637
+Ks 0.129412 0.129412 0.129412
+Kd 0.027451 0.027451 0.027451
+map_Kd Pottery_clay.jpg
+newmtl Flat_white
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Flat_white_1.jpg
+newmtl Pewter
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter_2.jpg
+newmtl BlackInodizedAlu
+Ka 0 0 0
+Ns 3.47873
+Ks 1 1 1
+Kd 0.198039 0.198039 0.198039
+map_Kd BlackInodizedAlu_3.jpg
+newmtl Stained_silver
+Ka 0 0 0
+Ns 6.04965
+Ks 1 0.788235 0.635294
+Kd 0.702766 0.702766 0.702766
+map_Kd Stained_silver_4.jpg
+newmtl Flat_gray
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.501961 0.501961 0.501961
+map_Kd Flat_gray_5.jpg
+newmtl Metallic_Varnish
+Ka 0 0 0
+Ns 6.04965
+Ks 0.733333 0.92549 1
+Kd 0 0 0
+map_Kd Metallic_Varnish_6.jpg

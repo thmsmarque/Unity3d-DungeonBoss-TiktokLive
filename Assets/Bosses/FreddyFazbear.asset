@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e016634dc9097e41a134af088b406dc, type: 3}
+  m_Name: FreddyFazbear
+  m_EditorClassIdentifier: 
+  health: 1000
+  maxHealth: 1000
+  name: FreddyFazear
+  bodyGO: {fileID: 7291817638983211789, guid: b71d3f0fc517b394eb7e84cf083a1c94, type: 3}
+  bossAudio: {fileID: 8300000, guid: e7fc743bf5f1e414b8e8d4ac37a9ac36, type: 3}
